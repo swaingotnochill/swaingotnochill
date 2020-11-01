@@ -13,13 +13,13 @@
 </br>
 </br>
 **About Me:**
-- 🔭 I’m currently working on...Debug_Shark.
-- 🌱 I’m currently learning...Mathematics and Machine Learning.
-- 👯 I’m looking to collaborate on...Machine Learning and Flutter.
+- 🔭 I’m currently working on...Debug_Shark;
+- 🌱 I’m currently learning...Mathematics and Machine Learning;
+- 👯 I’m looking to collaborate on...Machine Learning and Flutter;
 - 💼 I’m pursuing a Bachelor's degree in Electrical Engineering;
-- 🤔 I’m looking for help with...pretty much everything. I am kinda stupid guy.
-- 💬 Ask me about...Mathematics, Physics, Machine Learning & Anime.
-- ⚡ Fun fact:...Sasuke should just give a planetary devastation to Sakura.
+- 🤔 I’m looking for help with...pretty much everything. I am kinda stupid guy;
+- 💬 Ask me about...Mathematics, Physics, Machine Learning & Anime;
+- ⚡ Fun fact:...Sasuke should just give a planetary devastation to Sakura;
 
 **Languages and Tools:**  
 
