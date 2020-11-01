@@ -1,18 +1,13 @@
-### Hi there 👋
+### Namastey🙏 
 
-<!--
-**swaingotnochill/swaingotnochill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Debug_Shark.
+- 🌱 I’m currently learning Mathematics and Machine Learning.
+- 👯 I’m looking to collaborate on Machine Learning and Flutter.
+- 🤔 I’m looking for help with Everything. I am kinda stupid guy.
+- 💬 Ask me about Anime.
+- 📫 How to reach me: Instagram: @_snroshan
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: Sasuke should just give a planetary devastation to Sakura.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src = https://github-readme-stats.vercel.app/api?username=swaingotnochill&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515 >
+<img src = "https://github-readme-stats.vercel.app/api?username=swaingotnochill&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
