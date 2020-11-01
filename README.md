@@ -12,7 +12,7 @@
 
 </br>
 </br>
-**About Me:**  
+About Me:  
 
 - 🔭 I’m currently working on...Debug_Shark.
 - 🌱 I’m currently learning...Mathematics and Machine Learning.
