@@ -1,4 +1,5 @@
 ### Namastey🙏 
+
 <a href="https://www.linkedin.com/in/snroshan/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -8,6 +9,9 @@
 <a href="https://www.facebook.com/roshan.swain.980/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
+</br>
+</br>
 
 - 🔭 I’m currently working on...Debug_Shark.
 - 🌱 I’m currently learning...Mathematics and Machine Learning.
@@ -41,7 +45,7 @@
   <tr>
   <td width="40%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/zm60r4ybd6ykwzi2p6thvkg9b)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX6XceWZP1znY)
 
   </td>
   </table>
