@@ -39,8 +39,6 @@ About Me:
 
 ![swaingotnochill's github stats](https://github-readme-stats.vercel.app/api?username=swaingotnochill&show_icons=true&hide_border=true)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaingotnochill&hide=html,css&layout=compact" />
-
 
 <table width="80%"> 
   <tr>
