@@ -44,7 +44,7 @@ About Me:
   <tr>
   <td width="40%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX6XceWZP1znY)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/2jcD3gZzVQ6Jx9BlOeC51U?si=4faaee4eef9f49c9)
 
   </td>
   </table>
