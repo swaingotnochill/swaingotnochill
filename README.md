@@ -12,17 +12,12 @@
 
 </br>
 </br>
-About Me:  
+  
+**Hi 🌱** :
+  My name is Roshan Swain. I love Software and Manhwa.
 
-- 🔭 I’m currently working on...Nothing. Just spending time learning stuffs.
-- 🌱 I’m currently learning...DevOps and OpenCL.
-- 👯 I’m looking to collaborate on...Machine Learning and C++ Development.
-- 💼 I’m pursuing a Bachelor's degree in Electrical Engineering.
-- 🤔 I’m looking for help in ......
-- 💬 Ask me about...Mathematics, Physics, Machine Learning & Anime.
-- ⚡ Fun fact:...Sasuke should just give a planetary devastation to Sakura.
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
