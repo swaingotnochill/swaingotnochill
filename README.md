@@ -1,21 +1,32 @@
-### Namastey🙏 
-
-<a href="https://www.linkedin.com/in/snroshan/">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="300px" />
+</div>
+</br>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/snroshan/">
+  <img alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_snroshan/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/roshan.swain.980/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+ </div>
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=swaingotnochil&style=flat-square&color=blue" alt=""></p>
+ 
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-</br>
-</br>
   
-**Hi 🌱** :
-  My name is Roshan Swain. I love Software and Manhwa.
 
+</br>
+
+**Namastey**🙏 :
+</br>
+</br>
+My name is Roshan Swain. I love Software and Manhwa.
+  
+</br>
 
 **Languages and Tools:**
 
@@ -32,7 +43,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![swaingotnochill's github stats](https://github-readme-stats.vercel.app/api?username=swaingotnochill&show_icons=true&hide_border=true)
+![swaingotnochill's github stats](https://github-readme-stats.vercel.app/api?username=swaingotnochill&show_icons=true&hide_border=true&theme=transparent)
 
 
 <table width="80%"> 
