@@ -1,15 +1,15 @@
-# WORKS
+### Works
 1. Primary Author of https://github.com/konveyor/move2kube-vscode-plugin (not maintained actively now).
 
-# BLOG
+### Blog
 
 
-# WEBSITE
+### Website
 https://www.roshanswain.com
 
-# YOUTUBE
+### Youtube
 https://www.youtube.com/@snroshan99
 
-# SOCIALS
-LINKEDIN : https://www.linkedin.com/in/snroshan
-TWITTER: https://www.x.com/@pucchkaa
+### Socials
+- Linkedin : https://www.linkedin.com/in/snroshan
+- Twitter: https://www.x.com/@pucchkaa
