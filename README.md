@@ -5,7 +5,7 @@
 4. Primary Author of https://github.com/konveyor/move2kube-vscode-plugin (not maintained actively by me now).
 
 ### Blog
-- Medium : https://knowviole.medium.com/
+https://knowviole.medium.com/
 
 ### Website
 https://www.roshanswain.com
