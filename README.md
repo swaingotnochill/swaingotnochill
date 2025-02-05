@@ -11,7 +11,7 @@ https://knowviole.medium.com/
 https://www.roshanswain.com
 
 ### Youtube
-https://www.youtube.com/@snroshan99
+https://www.youtube.com/@Sysnomicon
 
 ### Socials
 - Linkedin : https://www.linkedin.com/in/snroshan
